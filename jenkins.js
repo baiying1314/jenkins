@@ -1,5 +1,5 @@
 function output() {
-    console.log("hello jenkins");
+    console.log("hello jenkin
 }
 
 output();
